@@ -2,3 +2,4 @@
 
 1. Run the setup_mta_env.sh file to create a virtual conda environment by running `source setup_mta_env.sh`
 2. Run `conda activate mta_env` to activate the virtual environment
+3. Run `pip install -r requirements.txt` to install necessary libraries
