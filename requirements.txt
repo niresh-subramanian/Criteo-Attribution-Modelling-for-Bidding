@@ -1,4 +1,6 @@
 pandas
+dask[dataframe]
+duckdb
 numpy
 matplotlib
 seaborn
